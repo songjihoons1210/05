@@ -1,5 +1,4 @@
 * {
-
     margin: 0px;
     text-decoration: none;
 
@@ -269,6 +268,8 @@ img {
     font-weight: 500;
 }
 
+/* 우측 창업문의 */
+
 .창업문의>img {
     width: 100px;
     height: 100px;
@@ -308,6 +309,7 @@ img {
     background-color: black;
     color: white;
 }
+
 .button>button>img {
     width: 5px;
     height: 5px;
@@ -328,3 +330,173 @@ img {
     font-size: 15px;
     font-weight: bold;
 }
+
+
+/* best 메뉴*/
+h5 {
+    text-align: center;
+    padding: 45px 0px;
+    font-size: 33.75px;
+    font-weight: 400;
+}
+
+
+.치킨버튼>div>img {
+    width: 220px;
+    height: 220px;
+    margin-left: 30px;
+}
+
+.치킨버튼 {
+    display: flex;
+    justify-content: center;
+}
+
+.best치킨색상 {
+    font-size: 19.5px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+    color: black;
+}
+
+
+.best치킨글1 {
+    text-align: center;
+    font-size: 16.87px;
+    color: #454545;
+    font-weight: 400;
+}
+
+.best치킨글2 {
+    text-align: center;
+    font-size: 16.87px;
+    color: #454545;
+    padding-bottom: 25px;
+    font-weight: 400;
+}
+
+.best치킨글3 {
+    text-align: center;
+    font-size: 16.87px;
+    color: #454545;
+    padding-bottom: 25px;
+    font-weight: 400;
+}
+
+.best치킨글4 {
+    text-align: center;
+    font-size: 16.87px;
+    color: #454545;
+    padding-bottom: 25px;
+    font-weight: 400;
+}
+
+.best치킨글5 {
+    text-align: center;
+    font-size: 16.87px;
+    color: #454545;
+    padding-bottom: 50px;
+    font-weight: 400;
+}
+
+.best가격 {
+    font-size: 21.6px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.원 {
+    margin-left: 5px;
+    color: #7b7b7b;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+
+.슬라이드3 {
+    display: flex;
+    align-items: center;
+}
+
+.버튼1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: white;
+    margin-top: -100px;
+    border: 1px solid #b99e5580;
+}
+
+.버튼1>img {
+    width: 25px;
+    height: 25px;
+    margin: auto auto;
+    background-color: white;
+}
+
+
+/* 맛난느 혜택 */
+.하단 {
+    width: 100%;
+    height: 300px;
+    background-color: #fed100;
+    margin-top: 50px;
+}
+
+.하단2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 45px 0px 240px;
+    margin: 0px a;
+}
+
+.하단2>div>ul>li {
+    margin-left: -20px;
+}
+
+
+.맛있는택{}
+
+
+
+.선물>img {
+    width: 20px;
+    height: 20px;
+}
+
+.선물::after {
+    display: flex;
+    content: "";
+    margin-top: 10px;
+    width: 330px;
+    height: 1px;
+    background-color: black;
+}
+
+.하단2>div>p {
+    font-size: 21.6px;
+}
+
+.맛있는 {
+    font-size: 27px;
+    font-weight: bold;
+    position: relative;margin-right: 5px;
+}
+
+.맛있는박스 {
+    border: solid 1px white;
+    width: 115px;
+    height: 20px;
+    background-color: white;
+    border-radius: 5px;
+    padding-right: 23px;
+    margin-left: -5px;
+    position: absolute;
+    margin-top: 13px;
+}
+
+.하단2 > .선택{background-color: white;}
+
+
